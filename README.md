@@ -258,6 +258,12 @@ scrynt/
   - Real-time updates
   - Web-scraped from reliable sources
 
+## Project Demo
+
+This is a quick demo of the project. Click below to watch it on YouTube:
+
+[![Watch the Demo](https://img.youtube.com/vi/yz2QJ-ctf00/hqdefault.jpg)](https://www.youtube.com/watch?v=yz2QJ-ctf00)
+
 ## Contact
 
 - Twitter/X: [@wqschain](https://x.com/wqschain)
